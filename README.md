@@ -38,7 +38,7 @@ Remember to change passcodes (device, applock, su, secure settings, securetask, 
 VMOS English Pro apk:
 www.vmos.com
 
-China version inside repo.
+China version inside repo. Easy to use. Press + and middle option from dropdown menu. Then locate .zip file with chinese characters.
 
 Mirrors listed below.
 
@@ -69,7 +69,7 @@ https://www.sugarsync.com/pf/D4869145_040_845923887
 MIRRORS (Social ROM) :
 Coming soon...
 
-ALL FILES SOONER OR LATER ON:
+ALL FILES SOONER OR LATER ON: (WORKING NOW)
 https://www.dropbox.com/sh/y64u2h9rd1v485v/AAAQp063aQUvPbkFtWhnu7bva?dl=0
 https://drive.google.com/folderview?id=1--g8Bc993gwM-A8F6415YGJVPOvh_HXq https://dubox.com/s/1_bnmVZ_P8ppCZ3RBO2dbzg
 https://icedrive.net/1/a4HNYI4YVD
