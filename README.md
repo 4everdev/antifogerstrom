@@ -20,6 +20,7 @@ SPECS (ANTISOCIAL EDITION):
 
 SPECS (SOCIAL EDITION)
 
+- Facebook proxy client app included.
 - Android 7.1 with preinstalled, but mostly restricted Google Services. Rooted and xposed.
 - MOST OF ALTERNATIVES for google and stock services (banking, email, navigation, search, browsers, virtual numbers, cloud services etc...). Delete what you don't need with multi uninstaller.
 - Security apps and macros.
