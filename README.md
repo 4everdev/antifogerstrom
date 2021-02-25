@@ -46,7 +46,7 @@ INSTALL:
 
 Extract files until you got .zip file witch countain chinese characters. DON'T TOUCH IT. It will only work unmodified and not extracted.
 
-Just create new VM on VMOS Pro and import/restore it from dropdown.
+Just create new VM on VMOS Pro and import/restore it from dropdown. After creation disable all other authorities than wait for oportunity and shock from VM authority settings, modify VM information and take all permissions from VMOS on android settings off including special permissions. Leave draw over other apps enabled if you want it to be easy to use.
 
 How to make secure host machine documents also in repo:
 https://app.blackhole.run/#35322de14d15dnndT2TgDyuKNUnEkpHZyKBihyy8ZqVe 
