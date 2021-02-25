@@ -66,8 +66,18 @@ https://www.sugarsync.com/pf/D4869145_040_845923887
 MIRRORS (Social ROM) :
 Coming soon...
 
+ALL FILES SOONER OR LATER ON:
+https://www.dropbox.com/sh/y64u2h9rd1v485v/AAAQp063aQUvPbkFtWhnu7bva?dl=0
+https://drive.google.com/folderview?id=1--g8Bc993gwM-A8F6415YGJVPOvh_HXq https://dubox.com/s/1_bnmVZ_P8ppCZ3RBO2dbzg
+https://icedrive.net/1/a4HNYI4YVD
+https://mega.nz/folder/DwRC0B7K#JLPCpi_bgEV7H6xOwsTaOw
+https://efss.qloud.my/index.php/s/DGQYfJJQnxEibpo
+https://u.pcloud.link/publink/show?code=kZXgDuXZSPhGDaILLNFfCvmJx2rMmzlhPoxX
+https://app.sugarsync.com/iris/wf/D4869145_09958836_7
+https://yadi.sk/d/PiFPoyaWiHTlTQ
+
 MIRRORS (Host machine apk installers):
-Coming soon...
+https://u.pcloud.link/publink/show?code=XZlDDuXZDadegrWLF94MI0Mnnr8w4uOEUtpX5
 
 FEEDBACK: 4everdev@protonmail.com
 
