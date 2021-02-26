@@ -78,6 +78,9 @@ https://efss.qloud.my/index.php/s/DGQYfJJQnxEibpo
 https://u.pcloud.link/publink/show?code=kZXgDuXZSPhGDaILLNFfCvmJx2rMmzlhPoxX
 https://app.sugarsync.com/iris/wf/D4869145_09958836_7
 https://yadi.sk/d/PiFPoyaWiHTlTQ
+https://www.amazon.com/clouddrive/share/eDyr6FYkCEZZo2DWMM6YOU1srYiQVXZNGh7fJq0SJsk
+https://cloud.mail.ru/public/UQog/P8EUNv2Dc
+
 
 MIRRORS (Host machine apk installers):
 https://u.pcloud.link/publink/show?code=XZlDDuXZDadegrWLF94MI0Mnnr8w4uOEUtpX5
